@@ -17,3 +17,7 @@ p::first-letter {
 p:hover {
     border: 1px solid black;
 }
+
+[target] {
+    color: purple;
+}
